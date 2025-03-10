@@ -1,8 +1,8 @@
 {
-  "name": "Jugaadu Flex",
+  "name": "Flex Mate",
   "description": "A Chrome Extension to make FlexStudent better",
   "manifest_version": 3,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "permissions": ["scripting", "tabs"],
   "host_permissions": ["*://flexstudent.nu.edu.pk/*"],
   "action": {
