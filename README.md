@@ -1,5 +1,4 @@
 <h1> Flex Mate</h1>
-<hr>
  <h2>Installation Procedure</h2>
 <p>Follow this installation procedure to get started with the extension. The installation is dependency-free and only requires Chrome.</p>
 <ul>
